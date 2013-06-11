@@ -1,6 +1,6 @@
-package com.edify.repositories;
+package com.cool.repositories;
 
-import com.edify.model.User;
+import com.cool.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**

@@ -1,4 +1,4 @@
-package com.edify.web.servlet;
+package com.cool.web.servlet;
 
 import org.apache.commons.lang.ArrayUtils;
 import org.springframework.beans.factory.InitializingBean;

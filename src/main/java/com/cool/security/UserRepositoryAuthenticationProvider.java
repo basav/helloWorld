@@ -1,6 +1,6 @@
-package com.edify.security;
+package com.cool.security;
 
-import com.edify.repositories.UserRepository;
+import com.cool.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

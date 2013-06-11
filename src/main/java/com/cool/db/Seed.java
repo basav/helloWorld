@@ -1,10 +1,10 @@
-package com.edify.db;
+package com.cool.db;
 
-import com.edify.config.ApplicationConfig;
-import com.edify.model.Role;
-import com.edify.model.User;
-import com.edify.repositories.RoleRepository;
-import com.edify.repositories.UserRepository;
+import com.cool.config.ApplicationConfig;
+import com.cool.model.Role;
+import com.cool.model.User;
+import com.cool.repositories.RoleRepository;
+import com.cool.repositories.UserRepository;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

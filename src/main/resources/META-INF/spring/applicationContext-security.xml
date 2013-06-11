@@ -20,7 +20,7 @@
         <intercept-url pattern="/users/**" access="hasRole('ROLE_ADMIN')"/>
     </http>
 
-    <beans:bean name="authenticationProvider" class="com.edify.security.UserRepositoryAuthenticationProvider"/>
+    <beans:bean name="authenticationProvider" class="com.cool.security.UserRepositoryAuthenticationProvider"/>
     <beans:bean name="passwordEncoder" class="org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder"/>
 
     <!-- Configure Authentication mechanism -->

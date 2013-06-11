@@ -23,7 +23,7 @@
 
     <context-param>
         <param-name>webAppRootKey</param-name>
-        <param-value>changeme.root</param-value>
+        <param-value>helloWorld.root</param-value>
     </context-param>
 
     <context-param>
@@ -33,7 +33,7 @@
 
     <context-param>
         <param-name>contextConfigLocation</param-name>
-        <param-value>com.edify.config.ApplicationConfig, com.edify.config.WebConfig</param-value>
+        <param-value>com.cool.config.ApplicationConfig, com.cool.config.WebConfig</param-value>
     </context-param>
 
     <filter>

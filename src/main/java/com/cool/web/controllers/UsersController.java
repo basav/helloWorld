@@ -1,8 +1,8 @@
-package com.edify.web.controllers;
+package com.cool.web.controllers;
 
-import com.edify.model.User;
-import com.edify.repositories.RoleRepository;
-import com.edify.repositories.UserRepository;
+import com.cool.model.User;
+import com.cool.repositories.RoleRepository;
+import com.cool.repositories.UserRepository;
 import org.apache.commons.lang.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.MessageSource;

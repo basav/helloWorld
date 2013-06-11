@@ -1,4 +1,4 @@
-package com.edify.model;
+package com.cool.model;
 
 import org.apache.commons.lang.StringUtils;
 import org.apache.commons.lang.builder.EqualsBuilder;
